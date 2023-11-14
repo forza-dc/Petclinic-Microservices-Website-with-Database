@@ -40,4 +40,3 @@ spec:
         - name: regcred
       restartPolicy: Always
 status: {}
-
